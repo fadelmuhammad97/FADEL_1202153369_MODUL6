@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "427711809054",
+    "firebase_url": "https://fadelm1202153369modul6.firebaseio.com",
+    "project_id": "fadelm1202153369modul6",
+    "storage_bucket": "fadelm1202153369modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427711809054:android:af6c37127dc7b442",
+        "android_client_info": {
+          "package_name": "com.example.fadelmuhammad.fadelm_1202153369_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427711809054-mvqpe3i8bib8mp95kc9onsh642ecoao2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fadelmuhammad.fadelm_1202153369_modul6",
+            "certificate_hash": "3d3d959e68e158a3b2493e9259656b6a3bc9a880"
+          }
+        },
+        {
+          "client_id": "427711809054-m0ob6duhk6ioquujbgl1vn847g92tgre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdFwFJeBGGYw4frbUfreyYgVU21Vf3UH0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427711809054-m0ob6duhk6ioquujbgl1vn847g92tgre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
